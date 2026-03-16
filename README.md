@@ -1,46 +1,52 @@
 # NasdaqPythonLab v2
 ### AI-Driven Macro Quant Research Terminal
 
-![GitHub stars](https://img.shields.io/github/stars/YOURUSERNAME/NasdaqPythonLabv2?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YOURUSERNAME/NasdaqPythonLabv2?style=social)
-![GitHub issues](https://img.shields.io/github/issues/YOURUSERNAME/NasdaqPythonLabv2)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOURUSERNAME/NasdaqPythonLabv2)
+![GitHub stars](https://img.shields.io/github/stars/LauroBeck/NasdaqPythonLabv2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/LauroBeck/NasdaqPythonLabv2?style=social)
+![GitHub issues](https://img.shields.io/github/issues/LauroBeck/NasdaqPythonLabv2)
+![GitHub last commit](https://img.shields.io/github/last-commit/LauroBeck/NasdaqPythonLabv2)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Quant](https://img.shields.io/badge/Quant-Research-green)
 ![Macro](https://img.shields.io/badge/Macro-AI-orange)
 
-![Repo Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&repo=NasdaqPythonLabv2&color=blue)
+![Repo Views](https://komarev.com/ghpvc/?username=LauroBeck&repo=NasdaqPythonLabv2&color=blue)
 
 ---
 
 # Overview
 
-NasdaqPythonLab v2 is a macro-quant research platform built in Python for analyzing financial markets.
+NasdaqPythonLab v2 is a Python-based macro quantitative research platform for analyzing financial markets.
 
-The system combines:
+Main capabilities:
 
-- market regime detection  
-- macro liquidity analysis  
-- volatility monitoring  
-- AI forecasting  
-- portfolio alpha generation  
+ Market regime detection  
+ Macro liquidity analysis  
+ Volatility monitoring  
+ AI market forecasting  
+ Portfolio alpha ranking  
 
 ---
 
 # Market Coverage
 
-The platform analyzes major global assets including:
+The system tracks major global assets:
 
 - S&P 500
 - Nasdaq Composite
-- US 10Y Treasury Yield
-- US Dollar Index
+- U.S. 10Y Treasury Yield
+- U.S. Dollar Index
 
-Major technology equities:
+Technology equities used in analysis:
 
 - Apple
 - Microsoft
 - NVIDIA
+
+---
+
+# Quant Terminal Preview
+
+![Quant Terminal](Screenshot%202026-03-15%20222552.png)
 
 ---
 
@@ -62,7 +68,7 @@ volatility_risk_engine.py
 
 Clone repository
 
-git clone https://github.com/YOURUSERNAME/NasdaqPythonLabv2.git
+git clone https://github.com/LauroBeck/NasdaqPythonLabv2.git
 
 cd NasdaqPythonLabv2
 
